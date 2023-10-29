@@ -1,6 +1,5 @@
 # InstaEngage - Automated Instagram Interactions
 
-## Short Description
 InstaEngage is a Python-based tool designed to automate various interactions on Instagram, including liking posts, following users, and leaving comments.
 
 ## Detailed Description
